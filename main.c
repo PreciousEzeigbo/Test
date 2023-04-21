@@ -9,5 +9,9 @@ int main(void)
 	{
 		printf("Your age is %d, you are an adult", age);
 	}
+	else
+	{
+		printf("You are not an adult");
+	}
 	return (0);
 }
