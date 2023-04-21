@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * sort_age - sorts ages from lowest to highest
  * @Age: an array of ages
