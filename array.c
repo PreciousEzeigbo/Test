@@ -5,7 +5,9 @@
 #define MAX_SIZE 100
 
 /**
+ * sort_age - sorts age
  * @n: number of elements
+ * @Age: age array
  * Return: 0 always
  */
 int main(void)
